@@ -3,6 +3,8 @@ Technologies used : HTML and CSS
 
 Time taken to complete : 8 hours
 
+Deployed Link : [Hosting Landing Page](https://incandescent-jalebi-c32c28.netlify.app/)
+
 ![Screenshot (201)](https://user-images.githubusercontent.com/82273693/189125649-c663a790-8128-49f8-b691-654804951763.png)
 
 ![Screenshot (202)](https://user-images.githubusercontent.com/82273693/189125810-7dbf01bc-770c-46fe-84a6-03889d806ee1.png)
